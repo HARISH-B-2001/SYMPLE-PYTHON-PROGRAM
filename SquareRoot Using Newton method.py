@@ -1,3 +1,6 @@
+""" To Find the squareroot of a given number with precision value"""
+
+
 def get_sqrt(num):
     sqroot = num
     while abs(num - sqroot * sqroot) > precision:
