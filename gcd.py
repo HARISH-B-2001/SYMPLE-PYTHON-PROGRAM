@@ -1,3 +1,6 @@
+'''To find the GCD of a goven number'''
+
+
 def gcd(a,b):
     if b==0:
         return a
