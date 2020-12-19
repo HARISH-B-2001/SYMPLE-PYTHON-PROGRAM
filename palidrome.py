@@ -1,3 +1,5 @@
+''' To check a given number or word is palidrome or not. '''
+
 def rev(a):
     b=""
     str_a = str(a)
