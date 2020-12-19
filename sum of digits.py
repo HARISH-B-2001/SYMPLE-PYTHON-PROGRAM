@@ -1,3 +1,6 @@
+''' To check the sum of digits of a given number. '''
+
+
 def add(a):
     b=0
     str_a=str(a)
