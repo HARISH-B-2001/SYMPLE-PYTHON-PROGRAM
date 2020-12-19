@@ -1,3 +1,5 @@
+''' To reverse a given numbers. '''
+
 def rev(a):
     b=""
     str_a = str(a)
